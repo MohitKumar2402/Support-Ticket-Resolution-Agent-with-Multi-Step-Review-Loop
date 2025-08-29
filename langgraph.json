@@ -1,0 +1,6 @@
+{
+  "dependencies": ["zikra"],
+  "graphs": {
+    "support_agent": "zikra:build_workflow"
+  }
+}
