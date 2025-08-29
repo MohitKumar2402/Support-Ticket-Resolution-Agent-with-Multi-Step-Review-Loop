@@ -1,0 +1,23 @@
+# Core LangChain + LangGraph
+langchain>=0.2.14
+langgraph>=0.1.8
+
+# LangChain community integrations
+langchain-community>=0.2.12
+langchain-openai>=0.1.11
+langchain-huggingface>=0.0.3
+
+# Embeddings + Vector Stores
+faiss-cpu>=1.8.0
+sentence-transformers>=2.7.0
+
+# Environment + Utils
+python-dotenv>=1.0.1
+
+# Azure + OpenAI SDKs (for safety/fallbacks)
+openai>=1.40.0
+azure-ai-openai>=1.0.0b2
+
+# Data handling
+pandas>=2.2.2
+numpy>=1.26.4
